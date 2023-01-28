@@ -1,0 +1,12 @@
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\bin\Debug\net6.0\ENB.ApartmentRetals.EF.deps.json
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\bin\Debug\net6.0\ENB.ApartmentRetals.EF.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\bin\Debug\net6.0\ENB.ApartmentRetals.EF.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ENB.ApartmentRetals.EF.csproj.AssemblyReference.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ENB.ApartmentRetals.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ENB.ApartmentRetals.EF.AssemblyInfoInputs.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ENB.ApartmentRetals.EF.AssemblyInfo.cs
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ENB.ApartmentRetals.EF.csproj.CoreCompileInputs.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ENB.ApartmentRetals.EF.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\refint\ENB.ApartmentRetals.EF.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ENB.ApartmentRetals.EF.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.EF\obj\Debug\net6.0\ref\ENB.ApartmentRetals.EF.dll

@@ -1,0 +1,77 @@
+﻿@model ENB.ApartmentRentals.Mvc.Models.CreateAndEditGuest
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="alert alert-primary" role="alert">
+    <h2><strong>Create New Guest</strong></h2>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Id" class="control-label"></label>
+                        <input asp-for="Id" class="form-control" />
+                        <span asp-validation-for="Id" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Gender_code" class="control-label"></label>
+                        <input asp-for="Gender_code" class="form-control" />
+                        <span asp-validation-for="Gender_code" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Guest_first_name" class="control-label"></label>
+                        <input asp-for="Guest_first_name" class="form-control" />
+                        <span asp-validation-for="Guest_first_name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Guest_last_name" class="control-label"></label>
+                        <input asp-for="Guest_last_name" class="form-control" />
+                        <span asp-validation-for="Guest_last_name" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Date_of_birth" class="control-label"></label>
+                        <input asp-for="Date_of_birth" class="form-control" />
+                        <span asp-validation-for="Date_of_birth" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Other_guest_details" class="control-label"></label>
+                        <input asp-for="Other_guest_details" class="form-control" />
+                        <span asp-validation-for="Other_guest_details" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

@@ -1,0 +1,76 @@
+﻿@model ENB.Mvc.ApartmentRentals.Models.CreateAndEditApartmentBooking
+@using ENB.ApartmentRentals.Entities
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2><strong>Create New Booking in @ViewBag.Message</strong></h2>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" asp-route-Apartment_BuildingId="@ViewBag.Idapbld" asp-route-ApartmentId="@ViewBag.AparId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="GuestId" class="control-label"></label>
+                        <select id="drpEmpList" class="form-control" asp-for="GuestId" asp-items="@(new SelectList(Model.ListGuests, "Value", "Text"))">
+                            <option value="">--Select--</option>
+                        </select>
+                        <span asp-validation-for="GuestId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Booking_status_code" class="control-label"></label>
+                        <select asp-for="Booking_status_code" class="form-control" asp-items="Html.GetEnumSelectList<Ref_Booking_status>()"></select>
+                        <span asp-validation-for="Booking_status_code" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Booking_start_date" class="control-label"></label>
+                        <input asp-for="Booking_start_date" class="form-control" />
+                        <span asp-validation-for="Booking_start_date" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Booking_end_date" class="control-label"></label>
+                        <input asp-for="Booking_end_date" class="form-control" />
+                        <span asp-validation-for="Booking_end_date" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Other_booking_details" class="control-label"></label>
+                        <textarea asp-for="Other_booking_details" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Other_booking_details" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:10px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="List" asp-route-Apartment_BuildingId="@ViewBag.Idapbld" asp-route-ApartmentId="@ViewBag.AparId" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

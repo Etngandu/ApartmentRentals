@@ -1,0 +1,17 @@
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.csproj.AssemblyReference.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.AssemblyInfoInputs.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.AssemblyInfo.cs
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.csproj.CoreCompileInputs.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRetals.Entities.deps.json
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRetals.Entities.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRetals.Entities.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRetals.EF.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRetals.Infrastructure.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRetals.EF.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRetals.Infrastructure.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.csproj.CopyComplete
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\refint\ENB.ApartmentRetals.Entities.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRetals.Entities.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ref\ENB.ApartmentRetals.Entities.dll

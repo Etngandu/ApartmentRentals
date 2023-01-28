@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ENB.Mvc.ApartmentRentals
+build_property.RootNamespace = ENB.Mvc.ApartmentRentals
+build_property.ProjectDir = C:\Devsource\ENB.ApartmentRetals\ENB.Mvc.ApartmentRentals\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Devsource\ENB.ApartmentRetals\ENB.Mvc.ApartmentRentals
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBooking/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50Qm9va2luZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBooking/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50Qm9va2luZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBooking/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50Qm9va2luZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBooking/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50Qm9va2luZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBooking/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50Qm9va2luZ1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBooking/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50Qm9va2luZ1xfRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBuilding/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50QnVpbGRpbmdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBuilding/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50QnVpbGRpbmdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBuilding/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50QnVpbGRpbmdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBuilding/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50QnVpbGRpbmdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBuilding/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50QnVpbGRpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentBuilding/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50QnVpbGRpbmdcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentFacility/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50RmFjaWxpdHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentFacility/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50RmFjaWxpdHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentFacility/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50RmFjaWxpdHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentFacility/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50RmFjaWxpdHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentFacility/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50RmFjaWxpdHlcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/ApartmentFacility/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50RmFjaWxpdHlcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Apartment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Apartment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Apartment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Apartment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Apartment/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Apartment/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XF9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/GuestAddress/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RBZGRyZXNzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/GuestAddress/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RBZGRyZXNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Guest/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Guest/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Guest/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Guest/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Guest/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Guest/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Devsource/ENB.ApartmentRetals/ENB.Mvc.ApartmentRentals/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mbgymxdea1

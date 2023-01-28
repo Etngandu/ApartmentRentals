@@ -1,0 +1,15 @@
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRentals.Entities.deps.json
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRentals.Entities.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRentals.Entities.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRentals.Infrastructure.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\bin\Debug\net6.0\ENB.ApartmentRentals.Infrastructure.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.csproj.AssemblyReference.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.AssemblyInfoInputs.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.AssemblyInfo.cs
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.csproj.CoreCompileInputs.cache
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.csproj.CopyComplete
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\refint\ENB.ApartmentRentals.Entities.dll
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ENB.ApartmentRentals.Entities.pdb
+C:\Devsource\ENB.ApartmentRetals\ENB.ApartmentRetals.Entities\obj\Debug\net6.0\ref\ENB.ApartmentRentals.Entities.dll

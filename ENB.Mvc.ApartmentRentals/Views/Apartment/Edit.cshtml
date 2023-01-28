@@ -1,0 +1,85 @@
+﻿@model ENB.Mvc.ApartmentRentals.Models.CreateAndEditApartment
+@using ENB.ApartmentRentals.Entities
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2><strong>Edit Apartment @ViewBag.Id from @ViewBag.Message</strong></h2>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Edit" asp-route-id="@ViewBag.Id" asp-route-Apartment_BuildingId="@ViewBag.aprtbldId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Ap_type" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <select asp-for="Ap_type" class="form-control" asp-items="Html.GetEnumSelectList<Ref_Apartment_type>()"></select>
+                        <span asp-validation-for="Ap_type" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Ap_number" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <input asp-for="Ap_number" class="form-control" />
+                        <span asp-validation-for="Ap_number" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group" style="margin-top:5px">
+                        <label asp-for="Bathroom_count" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <input asp-for="Bathroom_count" class="form-control" />
+                        <span asp-validation-for="Bathroom_count" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group" style="margin-top:5px">
+                        <label asp-for="Bedroom_count" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <input asp-for="Bedroom_count" class="form-control" />
+                        <span asp-validation-for="Bedroom_count" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="col-md-6">
+                    <div class="form-group" style="margin-top:5px">
+                        <label asp-for="Room_count" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <input asp-for="Room_count" class="form-control" />
+                        <span asp-validation-for="Room_count" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group" style="margin-top:5px">
+                        <label asp-for="Other_apartement_details" class="control-label card-header col-md-12" style="margin-bottom:10px"></label>
+                        @* <input asp-for="Other_apartement_details" class="form-control" />*@
+                        <textarea asp-for="Other_apartement_details" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Other_apartement_details" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="List" asp-route-Apartment_BuildingId="@ViewBag.aprtbldId" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
